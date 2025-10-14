@@ -1,59 +1,66 @@
-Overview
+# JPMorgan Chase & Co. Excel Skills Job Simulation
 
-This project was completed as part of the JPMorgan Chase & Co. Excel Skills Job Simulation on the Forage virtual experience platform. The simulation provided a hands-on opportunity to apply Excel-based analytical and visualization skills in a real-world financial services context.
+## Overview
+This project was completed as part of the **JPMorgan Chase & Co. Excel Skills Job Simulation** on the **Forage** virtual experience platform.  
+The simulation offered a practical opportunity to apply Excel-based analytical, modeling, and visualization skills in a financial services context.
 
-Objective
+---
 
-To demonstrate professional-level competency in data organization, financial modeling, data visualization, and business reporting using Microsoft Excel in a simulated corporate environment.
+## Objective
+To perform data analysis, financial modeling, and visualization tasks using **Microsoft Excel** in a simulated professional environment that mirrors real-world challenges at JPMorgan Chase.
 
-Key Tasks Completed
+---
 
-Data Cleaning and Preparation
+## Key Tasks Completed
+### 1. Data Cleaning and Preparation
+- Organized and formatted large financial datasets for analysis.  
+- Applied Excel formulas, conditional formatting, and data validation for quality assurance.
 
-Organized and formatted raw datasets for analysis.
+### 2. Financial Analysis and Modeling
+- Built financial models using **VLOOKUP**, **INDEX-MATCH**, and **SUMIFS** functions.  
+- Analyzed profitability, revenue, and cost data through pivot tables and custom formulas.
 
-Applied Excel formulas, conditional formatting, and lookup functions to improve accuracy and readability.
+### 3. Automation and Efficiency
+- Developed **VBA macros** to automate repetitive tasks and enhance efficiency.  
+- Implemented dynamic dashboards for interactive financial reporting.
 
-Financial Analysis and Modeling
+### 4. Data Visualization and Reporting
+- Created charts and pivot charts to highlight key performance metrics.  
+- Prepared a concise and professional Excel report summarizing findings and recommendations.
 
-Conducted data-driven analysis to extract insights on financial performance metrics.
+---
 
-Used formulas such as SUMIFS, VLOOKUP, INDEX-MATCH, and IFERROR for structured financial modeling.
+## Tools & Technologies
+- **Microsoft Excel** (Advanced Formulas, Pivot Tables, VBA, Macros)
+- **Data Analysis & Visualization**
+- **Financial Modeling**
+- **Business Reporting**
 
-Developed pivot tables to summarize key indicators for decision-making.
+---
 
-Automation and Efficiency
+## Skills Demonstrated
+- Financial Analysis and Data Interpretation  
+- Excel Automation and Dashboard Creation  
+- Analytical and Problem-Solving Skills  
+- Business Communication and Reporting  
 
-Implemented VBA (Visual Basic for Applications) to automate repetitive data-processing tasks.
+---
 
-Created dynamic dashboards with user-friendly interactivity to display performance KPIs.
+## Outcome
+Successfully completed the **JPMorgan Chase & Co. Excel Skills Job Simulation** with a focus on:
+- Financial data organization and visualization  
+- Excel automation and business modeling  
+- Data-driven decision-making and professional reporting
 
-Data Visualization and Reporting
+---
 
-Designed charts, pivot charts, and dashboards to visualize trends and communicate insights effectively.
+## Certificate
+[View Certificate](#)  
+*(You can replace the above link with your actual Forage certificate URL once available.)*
 
-Delivered a professional-style Excel report summarizing findings and recommendations.
+---
 
-Tools & Technologies
-
-Microsoft Excel (Advanced Functions, VBA, Pivot Tables, Charts)
-
-Data Analysis and Visualization
-
-Financial Modeling Techniques
-
-Business Reporting
-
-Skills Demonstrated
-
-Financial Data Interpretation
-
-Excel Automation and Dashboarding
-
-Analytical Thinking and Problem-Solving
-
-Business Communication and Reporting
-
-Outcome
-
-Successfully completed the JPMorgan Chase & Co. simulation with an emphasis on Excel proficiency, data-driven decision-making, and presentation of financial insights in a professional format.
+### Author
+**Jayant Shrimali**  
+Email: jayantshrimali59@gmail.com  
+Location: Rajsamand, Rajasthan, India
