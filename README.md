@@ -54,12 +54,6 @@ Successfully completed the **JPMorgan Chase & Co. Excel Skills Job Simulation** 
 
 ---
 
-## Certificate
-[View Certificate](#)  
-*(You can replace the above link with your actual Forage certificate URL once available.)*
-
----
-
 ### Author
 **Jayant Shrimali**  
 Email: jayantshrimali59@gmail.com  
